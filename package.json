@@ -1,0 +1,21 @@
+{
+  "name": "projetodev",
+  "version": "1.0.0",
+  "description": "To do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bairon Fagundes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "method-override": "^3.0.0",
+    "popper": "^1.0.1",
+    "pug": "^2.0.4"
+  }
+}
